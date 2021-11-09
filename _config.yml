@@ -28,6 +28,7 @@ domain: gmcginnis.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gmcginnis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gmcginnis
+linkedin_username:  gillian-mcginnis-598628161
 
 # Build settings
 theme: minima
