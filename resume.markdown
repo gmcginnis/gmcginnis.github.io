@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Resume
+title: R&eacute;sum&eacute; B&#233;lah t&#xE9;st
 permalink: /resume/
 ---
 
-This is where my r&eacute;sum&eacute; will be located. Trial 4.
+This is where my r&eacute;sum&eacute; will be located. Trial 5.
 
 # Education
 Reed College
