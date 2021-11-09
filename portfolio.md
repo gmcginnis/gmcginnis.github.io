@@ -8,7 +8,7 @@ My GitHub (<a href="https://github.com/gmcginnis">@gmcginnis</a>) has a number o
 
 ### Data Visualization
 
-# Spatio-Temporal Air Quality
+# Spatio-temporal exploration of low-cost air quality monitors
 View and install the <i>AirVizR</i> package <a href="https://github.com/gmcginnis/AirVizR">here</a>.
 
 Use the <i>AirVizViewR</i> dashboard via my shinyapps.io host <a href="https://gmcginnis.shinyapps.io/airvizviewr/">here</a>, via my Reed host <a href="https://shiny.reed.edu/s/users/gmcginnis/AirVizViewR/">here</a>, or by local install <a href="https://github.com/gmcginnis/AirVizViewR">here</a>.
