@@ -31,8 +31,8 @@ github_username:  gmcginnis
 linkedin_username:  gillian-mcginnis
 
 minima:
+  skin: dark
   date_format: "%d %b %Y"
-  skin: solarized-dark
 
 # Build settings
 theme: minima
