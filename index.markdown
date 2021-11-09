@@ -7,7 +7,7 @@ layout: home
 
 <b>Greetings!</b>
 
-My name is Gillian, and I am a senior at Reed College in Portland, OR.
+My name is Gillian (she/her/hers), and I am a senior at Reed College in Portland, OR.
 I have a personal passion for scientific literacy and truthful, accessible data visualization.
 
 Read more about me <a href="/about/">here</a>.
