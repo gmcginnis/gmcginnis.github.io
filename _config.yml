@@ -30,6 +30,10 @@ url: "https://gmcginnis.github.io" # the base hostname & protocol for your site,
 github_username:  gmcginnis
 linkedin_username:  gillian-mcginnis
 
+minima:
+  date_format: "%d %b %Y"
+  skin: solarized-dark
+
 # Build settings
 theme: minima
 plugins:
