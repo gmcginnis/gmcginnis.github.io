@@ -11,9 +11,11 @@ Reed College
 
 # Work Experience
 CUS Helpdesk
+Math TA
 
 # Research Experience
 PA Project
+NITARP
 
 # Skills
 Text.
