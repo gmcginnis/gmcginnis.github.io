@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Greetings!
+<b>Greetings!</b>
 
 My name is Gillian, and I am a senior at Reed College in Portland, OR.
 I have a personal passion for scientific literacy and truthful, accessible data visualization.

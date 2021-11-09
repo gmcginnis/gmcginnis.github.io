@@ -6,22 +6,22 @@ permalink: /resume/
 
 This is where my r&eacute;sum&eacute; will be located. Trial 6.
 
-# Education
+## Education
 Reed College
 
-# Work Experience
+## Work Experience
 CUS Helpdesk
 Math TA
 
-# Research Experience
+## Research Experience
 PA Project
 NITARP
 
-# Skills
+## Skills
 Text.
 
-# Honors and Awards
+## Honors and Awards
 Text.
 
-# Portfolio
+## Portfolio
 View my portfolio of past and current projects here.
