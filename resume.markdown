@@ -11,27 +11,29 @@ Reed College
 
 <button type="button" class="collapsible">Relevant Coursework</button>
 <div class="content">
-	<ul>
-		<li>Chemistry
-			<ul>
-				<li>Molecular Structure and Properties</li>
-				<li>Chemical Reactivity</li>
-				<li>Organic Chemistry I & II</li>
-				<li>Inorganic Chemistry</li>
-				<li>Quantitative Data Analysis for Chemists</li>
-				<li>Quantum Mechanics and Molecular Structure</li>
-				<li>Chemical Thermodynamics and Kinetics</li>
-				<li>Physical Chemistry Laboratory: Spectra of Diatomic Molecules</li>
-			</ul>
-		</li>
-		<li>Mathematics
-			<ul>
-				<li>Introduction to Probability and Statistics</li>
-				<li>Data Science</li>
-				<li>Statistical Learning</li>
-			</ul>
-		</li>
-	</ul>
+	<p>
+		<ul>
+			<li>Chemistry
+				<ul>
+					<li>Molecular Structure and Properties</li>
+					<li>Chemical Reactivity</li>
+					<li>Organic Chemistry I & II</li>
+					<li>Inorganic Chemistry</li>
+					<li>Quantitative Data Analysis for Chemists</li>
+					<li>Quantum Mechanics and Molecular Structure</li>
+					<li>Chemical Thermodynamics and Kinetics</li>
+					<li>Physical Chemistry Laboratory: Spectra of Diatomic Molecules</li>
+				</ul>
+			</li>
+			<li>Mathematics
+				<ul>
+					<li>Introduction to Probability and Statistics</li>
+					<li>Data Science</li>
+					<li>Statistical Learning</li>
+				</ul>
+			</li>
+		</ul>
+	</p>
 </div>
 
 Relevant coursework:
