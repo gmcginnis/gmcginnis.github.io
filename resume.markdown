@@ -57,10 +57,23 @@ NASA/IPAC Teacher Archive Research Program | San Jose, CA & Pasadena, CA
 (<i>2015 – December 2016</i>)
 
 ## Skills
-Text.
+R (_language, R Studio, tidyverse, Shiny, Git/GitHub integration_)  
+Computer help desk support (_Mac, Windows; ticketing via Request Tracker; website editing via Cascade_)  
+Document editor suites (_Google Docs Editors, Office 365, iWork_)  
+Wet chemistry laboratory skills (_incl. titration, recrystallization, roto-evaporation_)  
+Dry chemistry laboratory skills (_incl. software such as Spartan, Gaussian, MestReNova, ChemDraw_)  
+Moderate experience with LaTeX (_language, collaboration via Overleaf, BibTeX integration_)  
+Basic experience with Arduino (_language, wiring/electronics_)  
+Academic and non-academic writing (_incl. essays, laboratory reports, front-end website documentation_)  
+Reading and basic pronunciation of the Middle English language  
 
 ## Honors and Awards
-Text.
+### Reed College
+July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Office of the President  
+April 2021 - “April Fool’s” Data Visualization Contest Winner  |  Dept. of Mathematics  
+November 2021 - Data Visualization Contest Category Winner: Most Visually Appealing  |  Dept. of Mathematics  
+
+2014 – 2018 - Annual Françoise Leadership Award  |  Notre Dame High School, San Jose, CA
 
 ## Portfolio
-View my portfolio of past and current projects here.
+View my portfolio of past and current projects <a href="/portfolio/">here</a>.
