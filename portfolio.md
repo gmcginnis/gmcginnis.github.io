@@ -6,14 +6,14 @@ permalink: /portfolio/
 
 ## Data Visualization
 
-My GitHub (<a href="https://github.com/gmcginnis">@gmcginnis</a>) has a number of past and current programming projects.
+My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and current programming projects.
 
 ### Spatio-temporal exploration of low-cost air quality monitors
-View and install the <i>AirVizR</i> package <a href="https://github.com/gmcginnis/AirVizR">here</a>.  
-Use the <i>AirVizViewR</i> dashboard via my shinyapps.io host <a href="https://gmcginnis.shinyapps.io/airvizviewr/">here</a>, via my Reed host <a href="https://shiny.reed.edu/s/users/gmcginnis/AirVizViewR/">here</a>, or by local install <a href="https://github.com/gmcginnis/AirVizViewR">here</a>.
+View and install the _AirVizR_ package [here](https://github.com/gmcginnis/AirVizR).  
+Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/), via my Reed host [here](https://shiny.reed.edu/s/users/gmcginnis/AirVizViewR/), or by local install [here](https://github.com/gmcginnis/AirVizViewR).
 
-### Exploring <i>Lophiiformes</i> fish data
-Use the <i>FishDash</i> dashboard via my shinyapps.io host <a href="https://gmcginnis.shinyapps.io/FishDash/">here</a>, via my Reed host <a href="https://shiny.reed.edu/s/users/gmcginnis/FishDash/">here</a>, or by local install <a href="https://github.com/gmcginnis/FishDash">here</a>.
+### Exploring _Lophiiformes_ fish data
+Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/), via my Reed host [here](https://shiny.reed.edu/s/users/gmcginnis/FishDash/), or by local install [here](https://github.com/gmcginnis/FishDash).
 
 ## Writing
 
