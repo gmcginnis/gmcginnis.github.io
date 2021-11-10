@@ -73,7 +73,7 @@ July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Offic
 April 2021 - “April Fool’s” Data Visualization Contest Winner  |  Dept. of Mathematics  
 November 2021 - Data Visualization Contest Category Winner: Most Visually Appealing  |  Dept. of Mathematics  
 
-2014 – 2018 - Annual Françoise Leadership Award  |  Notre Dame High School, San Jose, CA
+2014 – 2018 - Annual Françoise Leadership Award  \|  Notre Dame High School, San Jose, CA
 
 ## Portfolio
 View my portfolio of past and current projects <a href="/portfolio/">here</a>.
