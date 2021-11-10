@@ -12,8 +12,21 @@ Reed College | Portland, OR
 (<i>August 2018 – degree expected May 2022</i>)  
 English Minor
 
+### Degree-Relevant coursework
+* Chemistry
+	+ Molecular Structure and Properties
+	+ Chemical Reactivity
+	+ Organic Chemistry I & II
+	+ Inorganic Chemistry
+	+ Quantitative Data Analysis for Chemists
+	+ Quantum Mechanics and Molecular Structure
+	+ Chemical Thermodynamics and Kinetics
+	+ Physical Chemistry Laboratory: Spectra of Diatomic Molecules
+* Mathematics
+	+ Introduction to Probability and Statistics
+	+ Data Science
+	+ Statistical Learning
 <!--
-Relevant coursework:
 <ul>
 	<li>Chemistry
 		<ul>
@@ -73,7 +86,7 @@ July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Offic
 April 2021 - “April Fool’s” Data Visualization Contest Winner  |  Dept. of Mathematics  
 November 2021 - Data Visualization Contest Category Winner: Most Visually Appealing  |  Dept. of Mathematics  
 
-2014 – 2018 - Annual Françoise Leadership Award  \|  Notre Dame High School, San Jose, CA
+2014 – 2018 - Annual Fran&ccedil;oise Leadership Award  \|  Notre Dame High School, San Jose, CA
 
 ## Portfolio
 View my portfolio of past and current projects <a href="/portfolio/">here</a>.
