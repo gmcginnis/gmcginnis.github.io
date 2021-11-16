@@ -26,6 +26,7 @@ English Minor
 	+ Introduction to Probability and Statistics
 	+ Data Science
 	+ Statistical Learning
+
 <!--
 <ul>
 	<li>Chemistry
