@@ -5,10 +5,9 @@
 layout: home
 ---
 
-<b>Greetings!</b>
+<b>Hello there!</b>
 
-My name is Gillian (she/her/hers), and I am a senior at Reed College in Portland, OR.
-I have a personal passion for scientific literacy and truthful, accessible data visualization.
+I'm Gillian (she/her/hers), an undergraduate senior at Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry lab experience, I work with R and R Studio, with some experience in LaTeX via Overleaf.
 
 Read more about me <a href="/about/">here</a>.
 
