@@ -79,7 +79,8 @@ Dry chemistry laboratory skills (_incl. software such as Spartan, Gaussian, Mest
 Moderate experience with LaTeX (_language, collaboration via Overleaf, BibTeX integration_)  
 Basic experience with Arduino (_language, wiring/electronics_)  
 Academic and non-academic writing (_incl. essays, laboratory reports, front-end website documentation_)  
-Middle English language (_Reading and basic pronunciation_)
+Middle English language (_reading, basic pronunciation_)
+Animal handling (_dogs, hens, honey bee hives_)
 
 ## Honors and Awards
 ### Reed College
