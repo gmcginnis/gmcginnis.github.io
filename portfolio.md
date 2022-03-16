@@ -35,6 +35,7 @@ _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested 
 ### English
 * Chaucer's _Canterbury Tales_ (fall 2021)
     + Many a Noble Wyf, Mayde, and Wydwe: Gender, Class, and Age in _The Wife of Bath’s Tale_
+    + _Sequitur de Accidia_: On Sorrow, Neglect, and Restlessness in Chaucer’s _Canterbury Tales_
 * Dante's _Divine Comedy_ (spring 2021)
     + _Quia Tempus Non Erit Amplius_: An Analysis of Time in Dante’s _Inferno_
     + _Raptus est in Paradisum_: Dante’s First Purgatorial Dream
