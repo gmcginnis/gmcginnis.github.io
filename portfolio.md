@@ -19,6 +19,9 @@ Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.s
 
 _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my writings._
 
+### Undergraduate Thesis
+Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica
+
 ### Chemistry
 * Inorganic (spring 2020)
     + Heck reaction using a palladium precatalyst under air
@@ -33,6 +36,10 @@ _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested 
     + Sodium Borohydride Reduction of a Chiral Ketone
 
 ### English
+* The City in Film (spring 2022)
+    + WATCH YOUR STEP: Sequence Analysis of Albert’s Murderin _Killer’s Kiss_ (1955) (00:41:02-00:44:17)
+    + Extra Cheese is Two Dollars: _Gemeinschaft_, _Gesellschaft_, and _Do the Right Thing_ (1989)
+    + No Friendly Places in the Valley: Los Angeles in _Pulp Fiction_ (1994) and _Mulholland Drive_ (2001)
 * Chaucer's _Canterbury Tales_ (fall 2021)
     + Many a Noble Wyf, Mayde, and Wydwe: Gender, Class, and Age in _The Wife of Bath’s Tale_
     + _Sequitur de Accidia_: On Sorrow, Neglect, and Restlessness in Chaucer’s _Canterbury Tales_
