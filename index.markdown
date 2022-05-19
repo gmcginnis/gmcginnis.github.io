@@ -15,7 +15,7 @@ layout: home
 
 <b>Hello there!</b>
 
-I'm Gillian (she/her/hers), an undergraduate senior at Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry lab experience, I work with R and R Studio, with some experience in LaTeX via Overleaf.
+I'm Gillian (she/her pronouns), a recent graduate from Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry laboratory experience, I work primarily with R and RStudio in my studies and as a course assistant, with additional experience in LaTeX via Overleaf. I have extensive higher education IT help desk support experience in both hands-on and remote settings.
 
 Read more about me <a href="/about/">here</a>.
 
