@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tuition Data Visualization Contest"
+title:  "College Enrollment Data Visualization Contest"
 date:   2020-11-19 07:54:21 -0700
 # categories: data visualization
 ---
