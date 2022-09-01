@@ -13,4 +13,4 @@ Challenges faced included the size of the data and aesthetic accessibility.
 
 My final visualization, shown below, was selected for the "Most Visually Appealing Visualization" award, and was the only visualization selected that was not created by a team.
 
-![image tooltip here](/assets/visualization/2020-11-tuition.png)
+![image tooltip here](/assets/visualizations/2020-11-tuition.png)
