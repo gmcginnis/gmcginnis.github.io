@@ -10,10 +10,10 @@ My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and 
 
 ### Spatio-temporal exploration of low-cost air quality monitors
 View and install the _AirVizR_ package [here](https://github.com/gmcginnis/AirVizR).  
-Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/), via my Reed host [here](https://shiny.reed.edu/s/users/gmcginnis/AirVizViewR/), or by local install [here](https://github.com/gmcginnis/AirVizViewR).
+Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/) or by local install [here](https://github.com/gmcginnis/AirVizViewR).
 
 ### Exploring _Lophiiformes_ fish data
-Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/), via my Reed host [here](https://shiny.reed.edu/s/users/gmcginnis/FishDash/), or by local install [here](https://github.com/gmcginnis/FishDash).
+Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
 
 ## Writing
 
