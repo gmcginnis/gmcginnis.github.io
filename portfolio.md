@@ -19,10 +19,10 @@ Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.s
 
 _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my writings._
 
-### Undergraduate Thesis
+### Undergraduate Thesis (fall 2021 – spring 2022)
 Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica
 
-### Chemistry
+### Chemistry (various dates)
 * Inorganic (spring 2020)
     + Heck reaction using a palladium precatalyst under air
     + Synthesis and characterization of an iron-acac complex
@@ -35,7 +35,7 @@ Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Ri
     + Grignard Synthesis of an Aromatic Carboxylic Acid
     + Sodium Borohydride Reduction of a Chiral Ketone
 
-### English
+### English (various dates)
 * The City in Film (spring 2022)
     + WATCH YOUR STEP: Sequence Analysis of Albert’s Murderin _Killer’s Kiss_ (1955) (00:41:02-00:44:17)
     + Extra Cheese is Two Dollars: _Gemeinschaft_, _Gesellschaft_, and _Do the Right Thing_ (1989)
