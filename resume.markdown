@@ -9,7 +9,7 @@ Download my r&eacute;sum&eacute; here (WIP). <!-- G note to self: remove phone n
 ## Education
 B.A. Chemistry  
 Reed College | Portland, OR  
-(<i>August 2018 – degree expected May 2022</i>)  
+(<i>August 2018 – May 2022</i>)  
 English Minor
 
 ### Degree-Relevant coursework
@@ -54,16 +54,16 @@ English Minor
 ## Work Experience
 Senior Help Desk Specialist  
 Reed College | Portland, OR  
-(<i>October 2018 – present</i>)
+(<i>October 2018 – May 2022</i>)
 
 Mathematics Laboratory Assistant  
 Reed College | Portland, OR  
-(<i>August 2021 – present</i>)
+(<i>August 2021 – April 2022</i>)
 
 ## Research Experience
 Undergraduate Student Researcher  
 Neighbors for Clean Air + Reed College Department of Chemistry | Portland, OR  
-(<i>June 2021 – present</i>)  
+(<i>June 2021 – December 2021</i>)  
 Collaboration with <a href="https://neighborsforcleanair.org/">NCA</a> and environmental chemistry Prof. Dr. Juliane Fry.
 
 Student Researcher  
@@ -72,11 +72,11 @@ NASA/IPAC Teacher Archive Research Program | San Jose, CA & Pasadena, CA
 
 ## Skills
 R (_language, R Studio, tidyverse, Shiny, Git/GitHub integration_)  
+Intermediate experience with LaTeX (_language, collaboration via Overleaf, BibTeX integration_)  
 Computer help desk support (_Mac, Windows; ticketing via Request Tracker; website editing via Cascade_)  
-Document editor suites (_Google Docs Editors, Office 365, iWork_)  
 Wet chemistry laboratory skills (_incl. titration, recrystallization, roto-evaporation_)  
 Dry chemistry laboratory skills (_incl. software such as Spartan, Gaussian, MestReNova, ChemDraw_)  
-Moderate experience with LaTeX (_language, collaboration via Overleaf, BibTeX integration_)  
+Document editor suites (_Google Docs Editors, Office 365, iWork_)  
 Basic experience with Arduino (_language, wiring/electronics_)  
 Academic and non-academic writing (_incl. essays, laboratory reports, front-end website documentation_)  
 Middle English language (_reading, basic pronunciation_)
@@ -84,6 +84,7 @@ Animal handling (_dogs, hens, honey bee hives_)
 
 ## Honors and Awards
 ### Reed College
+June 2022 - Commendation for Excellence in the 2021–22 academic year  |  Office of the President  
 July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Office of the President  
 April 2021 - “April Fool’s” Data Visualization Contest Winner  |  Dept. of Mathematics  
 November 2021 - Data Visualization Contest Category Winner: Most Visually Appealing  |  Dept. of Mathematics  
