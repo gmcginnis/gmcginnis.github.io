@@ -9,8 +9,8 @@ In early November of 2020, I participated in a data visualization competition ho
 
 I choose to work alone; my repository for the project is available on my GitHub [here](https://github.com/gmcginnis/dataVizContest2020).
 
-Below is one visualization I created but opted not to submit.
-
-
+Challenges faced included the size of the data and aesthetic accessibility.
 
 My final visualization, shown below, was selected for the "Most Visually Appealing Visualization" award, and was the only visualization selected that was not created by a team.
+
+![image tooltip here](/assets/visualization/2020-11-tuition.png)
