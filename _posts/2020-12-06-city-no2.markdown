@@ -2,7 +2,7 @@
 layout: post
 title:  "Atmospheric Composition by Satellite Remote Sensing"
 date:   2020-12-06 07:54:21 -0700
-categories: [visualization, chemistry]
+# categories: [visualization, chemistry]
 ---
 
 For the final project of my CHEM 313 class (Quantitative Data Analysis for Chemists, Fall 2020), students were to create a data visualization from satellite data to answer a self-written research question.
@@ -23,15 +23,16 @@ Based on visual analysis of the data, there is a noticeable decrease in atmosphe
 
 <hr>
 
- The full data set, wrangling code, and visualization code can be found on my project's GitHub repository [here](https://github.com/gmcginnis/Chem313_Lab13_SatelliteRS).
 
- Data was downloaded from NASA [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/), accessed 06 December 2020. Final data created with NO<sub>2</sub> Total Column (30% Colud Screened) data (OMI; temporal resuoltion = daily; spatial resolution = 0.25&#176;).
+The full data set, wrangling code, and visualization code can be found on my project's GitHub repository [here](https://github.com/gmcginnis/Chem313_Lab13_SatelliteRS).
+
+Data was downloaded from NASA [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/), accessed 06 December 2020. Final data created with NO<sub>2</sub> Total Column (30% Colud Screened) data (OMI; temporal resuoltion = daily; spatial resolution = 0.25&#176;).
 
 More information on OMI NO<sub>2</sub> measurements can be found [here](https://disc.gsfc.nasa.gov/datasets/OMNO2d_003/summary)
 
 More information on Giovanni NO<sub>2</sub> parameter can be found [here](https://disc.gsfc.nasa.gov/information/glossary?title=Giovanni%20Parameter%20Definitions:%20Nitrogen%20Dioxide).
 
- Selected cities were partly inspired by a March 2020 [article](https://www.theguardian.com/environment/2020/mar/23/coronavirus-pandemic-leading-to-huge-drop-in-air-pollution) analyzing a drop in air pollution as a result of pandemic lockdowns.
+Selected cities were partly inspired by a March 2020 [article](https://www.theguardian.com/environment/2020/mar/23/coronavirus-pandemic-leading-to-huge-drop-in-air-pollution) analyzing a drop in air pollution as a result of pandemic lockdowns.
 
- The dates of COVID-19 pandemic lockdowns (as of December 2020) were taken from [Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic_lockdowns).
+The dates of COVID-19 pandemic lockdowns (as of December 2020) were taken from [Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic_lockdowns).
 
