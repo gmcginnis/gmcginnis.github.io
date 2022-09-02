@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Lophiiformes Shiny Dashboard"
+date:   2021-04-09 07:54:21 -0700
+tags: [data visualization, shiny]
+---
+
+I made my first major Shiny application in April 2021, using data from the [FishBase](FishBase) API accessed via the [<code>rfishbase</code> package](https://github.com/ropensci/rfishbase). The goal of this project was to create an interactive dashboard that used data downloaded via an API.
+
+The live application can be accessed [here](https://gmcginnis.shinyapps.io/fishdash/), and all code and data are available [here](https://github.com/gmcginnis/FishDash).
+
+Below, a preview of the final site is presented.
+
+![Apr 2021 fish site](/assets/visualizations/2021-04-fish-site.png)
+
+In addition to being able to explore depth data by applied filters, there is an additional tab that allows for a tabular exploration of the resulting data.
+
+![Apr 2021 fish table](/assets/visualizations/2021-04-fish-table.png)
