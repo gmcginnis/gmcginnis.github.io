@@ -90,7 +90,7 @@ November 2021 - Data Visualization Contest Category Winner: Most Visually Appeal
 
 ### Notre Dame High School
 May 2018 - Academic Achievement Award: Robotics  
-May 2018 - Academic Achievement Award: innov\@teND
+May 2018 - Academic Achievement Award: innov@teND
 2014 – 2018 - Annual Fran&ccedil;oise Leadership Award  
 
 ## Portfolio

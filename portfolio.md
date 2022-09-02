@@ -22,7 +22,7 @@ _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested 
 ### Undergraduate Thesis (fall 2021 – spring 2022)
 Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica
 
-### Chemistry (various dates)
+### Chemistry
 * Inorganic (spring 2020)
     + Heck reaction using a palladium precatalyst under air
     + Synthesis and characterization of an iron-acac complex
@@ -35,7 +35,7 @@ Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Ri
     + Grignard Synthesis of an Aromatic Carboxylic Acid
     + Sodium Borohydride Reduction of a Chiral Ketone
 
-### English (various dates)
+### English
 * The City in Film (spring 2022)
     + WATCH YOUR STEP: Sequence Analysis of Albert’s Murderin _Killer’s Kiss_ (1955) (00:41:02-00:44:17)
     + Extra Cheese is Two Dollars: _Gemeinschaft_, _Gesellschaft_, and _Do the Right Thing_ (1989)
@@ -50,7 +50,7 @@ Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Ri
 * Film Noir (fall 2020)
     + Sequence Analysis: _Mildred Pierce_ (1945)’s Opening Sequence (00:01:53-00:03:14)
     + “You’re on a hate binge”: Restoration of the Patriarchal Order Through Male Violence and Female Casualty in _The Big Heat_
-* Shakespeare's tragedies (fall 2019)
+* Shakespeare's Tragedies (fall 2019)
     + The Ills We Do: A close analysis of Shakespeare's _Othello_
     + Every Inch a King: A comparison of the attitudes by Harold Bloom and by Stephen Greenblatt toward Lear of Shakespeare's _King Lear_
     + Immortal Longings: The conception of imagination in Shakespeare's _Antony and Cleopatra_
