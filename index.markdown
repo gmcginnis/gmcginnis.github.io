@@ -19,7 +19,7 @@ I'm Gillian (she/her pronouns), a recent graduate from Reed College studying che
 
 Read more about me <a href="/about/">here</a>.
 
-View my r&eacute;sum&eacute; <a href="/resume/">here</a>.
+View my CV <a href="/cv/">here</a>.
 
 Check out my past and current projects <a href="/portfolio/">here</a>.
 
