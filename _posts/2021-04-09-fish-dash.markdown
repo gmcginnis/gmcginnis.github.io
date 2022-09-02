@@ -3,6 +3,7 @@ layout: post
 title:  "Lophiiformes Shiny Dashboard"
 date:   2021-04-09 07:54:21 -0700
 tags: [data visualization, shiny]
+# thumbnail: "/assets/visualizations/2021-04-fish.png"
 ---
 
 I made my first major Shiny application in April 2021, using data from the [FishBase](FishBase) API accessed via the [<code>rfishbase</code> package](https://github.com/ropensci/rfishbase). The goal of this project was to create an interactive dashboard that used data downloaded via an API.
