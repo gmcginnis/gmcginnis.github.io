@@ -4,6 +4,13 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+## Projects
+
+Paideia Class: [On the History and Science of Chili Peppers](https://gmcginnis.github.io/2022/01/20/paideia-peppers.html)  
+(<i>December 2021 – January 2022</i>)  
+
+
+
 ## Data Visualization
 
 My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and current programming projects.
@@ -20,7 +27,7 @@ Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.s
 _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my writings._
 
 ### Undergraduate Thesis (fall 2021 – spring 2022)
-Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica
+_Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica_
 
 ### Chemistry
 * Inorganic (spring 2020)
