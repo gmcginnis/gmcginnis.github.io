@@ -2,7 +2,7 @@
 layout: post
 title:  "Atmospheric Composition by Satellite Remote Sensing"
 date:   2020-12-06 07:54:21 -0700
-# categories: data visualization, chemistry
+categories: [data visualization, chemistry]
 ---
 
 For the final project of my CHEM 313 class (Quantitative Data Analysis for Chemists, Fall 2020), students were to create a data visualization from satellite data to answer a self-written research question.

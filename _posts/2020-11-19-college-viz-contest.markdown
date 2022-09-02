@@ -2,7 +2,7 @@
 layout: post
 title:  "College Enrollment Data Visualization Contest"
 date:   2020-11-19 07:54:21 -0700
-# categories: data visualization
+categories: [data visualization, contest]
 ---
 
 In early November of 2020, I participated in a data visualization competition hosted by the Reed College Math Department in which participants worked in small groups or individually to create a visualization for data from [Tuition Tracker](https://www.tuitiontracker.org/). Data sets were revealed on November 10th and final presentations were conducted on November 16th. Winners were determined by audience votes.
