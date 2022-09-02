@@ -69,6 +69,12 @@ Student Researcher
 NASA/IPAC Teacher Archive Research Program | San Jose, CA & Pasadena, CA  
 (<i>2015 – December 2016</i>)
 
+## Projects
+Paideia Class: On the History and Science of Chili Peppers  
+(<i>December 2021 – January 2022</i>)  
+Paideia is Reed College's annual festival of learning, in which members of the Reed community are invited to participate in or lead classes and workshops about their passions. For the 2022 festival, I independently researched and presented a one hour lecture and corresponding slides on the history of and science behind chili peppers.  
+The full slideshow is available [here](https://docs.google.com/presentation/d/16QJPCU1U0f8onAu8jFBmXnCjta7BoXPktoh5Kg8r9UE/edit?usp=sharing).
+
 ## Skills
 R (_language, R Studio, tidyverse, Shiny, Git/GitHub integration_)  
 Intermediate experience with LaTeX (_language, collaboration via Overleaf, BibTeX integration_)  
@@ -90,7 +96,7 @@ November 2021 - Data Visualization Contest Category Winner: Most Visually Appeal
 
 ### Notre Dame High School
 May 2018 - Academic Achievement Award: Robotics  
-May 2018 - Academic Achievement Award: innov@teND
+May 2018 - Academic Achievement Award: innov@teND  
 2014 – 2018 - Annual Fran&ccedil;oise Leadership Award  
 
 ## Portfolio
