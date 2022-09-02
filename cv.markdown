@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Résumé
-permalink: /resume/
+title: CV
+permalink: /cv/
 ---
 
 Download my r&eacute;sum&eacute; here (WIP). <!-- G note to self: remove phone number from uploaded resume -->
