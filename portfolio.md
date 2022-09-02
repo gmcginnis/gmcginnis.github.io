@@ -6,11 +6,8 @@ permalink: /portfolio/
 
 ## Projects
 
-<a href="/2022/01/20/paideia-peppers.html">On the History and Science of Chili Peppers</a>.  
-
-Paideia Class: [On the History and Science of Chili Peppers](https://gmcginnis.github.io/2022/01/20/paideia-peppers.html)  
+Paideia Class: <a href="/2022/01/20/paideia-peppers.html">On the History and Science of Chili Peppers</a>.    
 (<i>December 2021 – January 2022</i>)  
-
 
 
 ## Data Visualization
@@ -22,7 +19,8 @@ View and install the _AirVizR_ package [here](https://github.com/gmcginnis/AirVi
 Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/) or by local install [here](https://github.com/gmcginnis/AirVizViewR).
 
 ### Exploring _Lophiiformes_ fish data
-Use the _FishDash_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
+Learn more about the _FishDash_ Shiny dashboard <a href = "/2021-04-09-fish-dash.html">here</a>.  
+Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
 
 ## Writing
 

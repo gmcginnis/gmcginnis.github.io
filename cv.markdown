@@ -9,9 +9,9 @@ Download my r&eacute;sum&eacute; here (WIP). G note to self: remove phone number
 -->
 
 ## Education  
-B.A. Chemistry | English Minor  
+**B.A. Chemistry** (<i>August 2018 – May 2022</i>)  
+English Minor  
 Reed College | Portland, OR  
-(<i>August 2018 – May 2022</i>)
 
 ### Degree-Relevant coursework
 * Chemistry
@@ -22,31 +22,26 @@ Reed College | Portland, OR
 	+ Quantitative Data Analysis for Chemists
 	+ Quantum Mechanics and Molecular Structure
 	+ Chemical Thermodynamics and Kinetics
-	+ Physical Chemistry Laboratory: Spectra of Diatomic Molecules
+	+ Physical Chemistry Laboratory: Spectra of Diatomic Molecules  
 * Mathematics
 	+ Introduction to Probability and Statistics
 	+ Data Science
 	+ Statistical Learning
 
 ## Work Experience
-**Senior Help Desk Specialist**  
+**Senior Help Desk Specialist** (<i>October 2018 – May 2022</i>)  
 Reed College | Portland, OR  
-(<i>October 2018 – May 2022</i>)
 
-
-**Mathematics Laboratory Assistant**  
+**Mathematics Laboratory & Course Assistant** (<i>August 2021 – April 2022</i>)  
 Reed College | Portland, OR  
-(<i>August 2021 – April 2022</i>)
 
 ## Research Experience
-**Undergraduate Student Researcher**  
+**Undergraduate Student Researcher** (<i>June 2021 – December 2021</i>)  
 Neighbors for Clean Air + Reed College Department of Chemistry | Portland, OR  
-(<i>June 2021 – December 2021</i>)  
-Collaboration with <a href="https://neighborsforcleanair.org/">NCA</a> and environmental chemistry Prof. Dr. Juliane Fry.
+Collaboration with <a href="https://neighborsforcleanair.org/">NCA</a> and environmental chemistry Prof. Dr. Juliane Fry.  
 
-**Student Researcher**  
+**Student Researcher** (<i>2015 – December 2016</i>)  
 NASA/IPAC Teacher Archive Research Program | San Jose, CA & Pasadena, CA  
-(<i>2015 – December 2016</i>)
 
 ## Skills
 R (_language, R Studio, tidyverse, Shiny, Git/GitHub integration_)  
@@ -64,8 +59,8 @@ Animal handling (_dogs, hens, honey bee hives_)
 ### Reed College
 June 2022 - Commendation for Excellence in the 2021–22 academic year  |  Office of the President  
 July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Office of the President  
-April 2021 - [“April Fool’s” Data Visualization Contest Winner](https://gmcginnis.github.io/2021/04/01/ugly-viz-contest.html)  |  Dept. of Mathematics  
-November 2021 - [Data Visualization Contest Category Winner: Most Visually Appealing](https://gmcginnis.github.io/2020/11/19/college-viz-contest.html)  |  Dept. of Mathematics  
+April 2021 - <a href="/2021/04/01/ugly-viz-contest.html">“April Fool’s” Data Visualization Contest Winner</a>  |  Dept. of Mathematics  
+November 2021 - <a href="/2020/11/19/college-viz-contest.html">Data Visualization Contest Category Winner: Most Visually Appealing</a>  |  Dept. of Mathematics  
 
 ### Notre Dame High School
 May 2018 - Academic Achievement Award: Robotics  
