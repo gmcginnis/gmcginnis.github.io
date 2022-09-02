@@ -6,11 +6,10 @@ permalink: /resume/
 
 Download my r&eacute;sum&eacute; here (WIP). <!-- G note to self: remove phone number from uploaded resume -->
 
-## Education
-B.A. Chemistry  
+## Education  
+B.A. Chemistry | English Minor  
 Reed College | Portland, OR  
-(<i>August 2018 – May 2022</i>)  
-English Minor
+(<i>August 2018 – May 2022</i>)
 
 ### Degree-Relevant coursework
 * Chemistry
@@ -89,7 +88,10 @@ July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Offic
 April 2021 - “April Fool’s” Data Visualization Contest Winner  |  Dept. of Mathematics  
 November 2021 - Data Visualization Contest Category Winner: Most Visually Appealing  |  Dept. of Mathematics  
 
-2014 – 2018 - Annual Fran&ccedil;oise Leadership Award  \|  Notre Dame High School, San Jose, CA
+### Notre Dame High School
+May 2018 - Academic Achievement Award: Robotics  
+May 2018 - Academic Achievement Award: innov\@teND
+2014 – 2018 - Annual Fran&ccedil;oise Leadership Award  
 
 ## Portfolio
 View my portfolio of past and current projects <a href="/portfolio/">here</a>.
