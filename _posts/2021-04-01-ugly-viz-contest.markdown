@@ -2,7 +2,7 @@
 layout: post
 title:  "April Fool's Data Visualization Contest"
 date:   2021-04-01 07:54:21 -0700
-categories: [data visualization, contest]
+categories: [visualization, contest]
 ---
 
 In late March of 2021, I participated in an April Fool's Day themed data visualization competition hosted by the Reed College Math Department. Participants worked in small groups or individually to intentionally create the ugliest visualization using data from previous [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) collections. Three data sets were presented, dealing with YouTube, the SuperBowl, and popstar lyrics. All groups had 45 minutes to complete their visualizations, and winners were selected by audience vote.
