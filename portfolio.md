@@ -6,6 +6,8 @@ permalink: /portfolio/
 
 ## Projects
 
+<a href="/2022/01/20/paideia-peppers.html">On the History and Science of Chili Peppers</a>.  
+
 Paideia Class: [On the History and Science of Chili Peppers](https://gmcginnis.github.io/2022/01/20/paideia-peppers.html)  
 (<i>December 2021 – January 2022</i>)  
 
