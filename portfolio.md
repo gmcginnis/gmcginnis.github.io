@@ -4,9 +4,10 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Projects
+# Projects
 
-Paideia Class: <a href="/2022/01/20/paideia-peppers.html">On the History and Science of Chili Peppers</a>.    
+## Paideia Class  
+<a href="/2022/01/20/paideia-peppers.html">On the History and Science of Chili Peppers</a>    
 (<i>December 2021 – January 2022</i>)  
 
 
@@ -22,7 +23,7 @@ Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginni
 Learn more about the _FishDash_ Shiny dashboard <a href = "/2021-04-09-fish-dash.html">here</a>.  
 Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
 
-## Writing
+# Writing
 
 _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my papers._
 
@@ -30,10 +31,10 @@ _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested 
 _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica_
 
 ### Chemistry
-* Inorganic (spring 2020)
+* <b>Inorganic</b> (spring 2020)
     + Heck reaction using a palladium precatalyst under air
     + Synthesis and characterization of an iron-acac complex
-* Organic (fall 2019 – spring 2020)
+* <b>Organic</b> (fall 2019 – spring 2020)
     + Distillation of Whiskey Flavorings
     + Synthesis of Isopentyl Acetate from Isopentyl Alcohol and Acetic Acid
     + Rate of Nucleophilic Substitution
@@ -43,28 +44,48 @@ _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice R
     + Sodium Borohydride Reduction of a Chiral Ketone
 
 ### English
-* The City in Film (spring 2022)
+* <b>The City in Film</b> (spring 2022)
     + WATCH YOUR STEP: Sequence Analysis of Albert’s Murderin _Killer’s Kiss_ (1955) (00:41:02-00:44:17)
     + Extra Cheese is Two Dollars: _Gemeinschaft_, _Gesellschaft_, and _Do the Right Thing_ (1989)
     + No Friendly Places in the Valley: Los Angeles in _Pulp Fiction_ (1994) and _Mulholland Drive_ (2001)
-* Chaucer's _Canterbury Tales_ (fall 2021)
+* <b>Chaucer's _Canterbury Tales_</b> (fall 2021)
     + Many a Noble Wyf, Mayde, and Wydwe: Gender, Class, and Age in _The Wife of Bath’s Tale_
     + _Sequitur de Accidia_: On Sorrow, Neglect, and Restlessness in Chaucer’s _Canterbury Tales_
-* Dante's _Divine Comedy_ (spring 2021)
+* <b>Dante's _Divine Comedy_</b> (spring 2021)
     + _Quia Tempus Non Erit Amplius_: An Analysis of Time in Dante’s _Inferno_
     + _Raptus est in Paradisum_: Dante’s First Purgatorial Dream
     + _La Passione Impressa_: The Gate of Inferno and the Ultimate Theophany
-* Film Noir (fall 2020)
+* <b>Film Noir</b> (fall 2020)
     + Sequence Analysis: _Mildred Pierce_ (1945)’s Opening Sequence (00:01:53-00:03:14)
     + “You’re on a hate binge”: Restoration of the Patriarchal Order Through Male Violence and Female Casualty in _The Big Heat_
-* Shakespeare's Tragedies (fall 2019)
+* <b>Shakespeare's Tragedies</b> (fall 2019)
     + The Ills We Do: A close analysis of Shakespeare's _Othello_
     + Every Inch a King: A comparison of the attitudes by Harold Bloom and by Stephen Greenblatt toward Lear of Shakespeare's _King Lear_
     + Immortal Longings: The conception of imagination in Shakespeare's _Antony and Cleopatra_
 
+<!--
+### Archeology (spring 2022)
++ Case Study Evaluation: Meskell 1998
++ Case Study Evaluation: Ikram and Dodson 1998
++ Case Study Evaluation: Iezzi 2009
++ Case Study Evaluation: Redfern et al. 2017
+-->
+
 ### History (spring 2021)
 + Equality, Rationality, & Predictability: The Legal Changes of Medieval Europe
 + A legal briefing from a Beccarian perspective regarding the trial of Tempel Anneke
+<!--
+* (spring 2020)
+    + <i>Documentalium Inquisito</i>: Structuring a Film Defining Inquisition, Heresy, and Power in the Context of the Middle and Early Modern Ages
+    + A Manual For the Eradication of the Fraticelli Heresy
+-->
+
+### Music & Politics (fall 2020)
++ Music of The Troubles: Irish Rebel, Folk, and Protest Songs
++ The Tehrangeles Genre: In and Beyond the Nation
++ <i>Noise Uprising</i> and the Politics of Recorded Sound
++ “A life filled with fun, that’s what I love”: A Tribe Called Quest and the Politics of Musical Love
++ Reflections on <i>Hungry Listening</i>, Academia, and the Role of Music in Revitalization
 
 ### Humanities (fall 2018 – spring 2019)
 * Gilgamesh's Humanity: _The Epic of Gilgamesh_

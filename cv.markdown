@@ -8,10 +8,11 @@ permalink: /cv/
 Download my r&eacute;sum&eacute; here (WIP). G note to self: remove phone number from uploaded resume
 -->
 
-## Education  
+# Education  
 **B.A. Chemistry** (<i>August 2018 – May 2022</i>)  
 English Minor  
 Reed College | Portland, OR  
+
 <!--
 **High School Diploma** (<i>August 2014 - June 2018</i>)  
 Notre Dame High School | San Jose, CA  
@@ -52,32 +53,37 @@ Statistical Learning
 
 ### Activities & Societies  
 
-[ACS](https://www.acs.org/) chapter participant (<i>Fall 2020 – May 2022</i>)  
+[American Chemical Society](https://www.acs.org/) chapter participant (<i>Fall 2020 – May 2022</i>)  
 STEMGeMs student member (<i>Fall 2020 – May 2022</i>)  
+
 <!--
-[FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) Team 1967 safety captain (<i>2014 - 2018</i>), programming committee member (<i>2014 - 2016</i>), marketing committee member (<i>2016 - 2018</i>)  
-Movie Club president and co-founder (<i>2016 - 2018</i>)
+[FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) Team 1967 safety captain (*2014 - 2018*), programming committee member (*2014 - 2016*), marketing committee member (*2016 - 2018*)  
+Movie Club president and co-founder (<i>2016 - 2018</i>)  
 -->
 
 ## Work Experience  
 **Senior Help Desk Specialist** (<i>October 2018 – May 2022</i>)  
 Reed College | Portland, OR  
+Trainee (*Oct 2018 – Apr 2019*), Consultant (*Apr 2019 – Oct 2019*), Senior Consultant (*Nov 2019 – Mar 2021*), Senior Specialist (*Mar 2021 – May 2022*)  
 
 **Mathematics Laboratory & Course Assistant** (<i>August 2021 – April 2022</i>)  
 Reed College | Portland, OR  
+Introduction to Probability and Statistics laboratory assistant (*Aug 2021 – Dec 2021*), Data Science course assistant (*Jan 2022 – Apr 2022*)  
 
 ## Research Experience
 **Undergraduate Senior Thesis** (<i>August 2021 – May 2022</i>)  
 Reed College | Portland, OR  
 <i>Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica</i>
 
-**Undergraduate Student Researcher** (<i>June 2021 – December 2021</i>)  
-Neighbors for Clean Air + Reed College Dept. of Chemistry | Portland, OR  
-Collaboration with <a href="https://neighborsforcleanair.org/">NCA</a> and environmental chemistry Prof. Dr. Juliane Fry.  
+**Portland Air Quality Project** (<i>December 2020 – December 2021</i>)  
+[Neighbors for Clean Air](https://neighborsforcleanair.org/) + Reed College Dept. of Chemistry | Portland, OR  
+Part-time ad hoc preliminary research (*Dec 2020 – Jan 2021*), full-time research & development (*Jun 2021 – Aug 2021*), part-time community engagement focused (*Aug 2021 – Dec 2021*)  
 
 **NASA/IPAC Teacher Archive Research Program** (<i>2015 – December 2016</i>)  
 Notre Dame High School | San Jose, CA & Pasadena, CA  
+[Luminosity, Accretion Disk, and Dust Team](https://nitarp.ipac.caltech.edu/team/65-LADDT-Gorjian)  
 
+<!--
 ## Skills
 R (_language, R Studio, tidyverse, Shiny, Git/GitHub integration_)  
 Intermediate experience with LaTeX (_language, collaboration via Overleaf, BibTeX integration_)  
@@ -89,6 +95,7 @@ Basic experience with Arduino (_language, wiring/electronics_)
 Academic and non-academic writing (_incl. essays, laboratory reports, front-end website documentation_)  
 Middle English language (_reading, basic pronunciation_)
 Animal handling (_dogs, hens, honey bee hives_)
+-->
 
 ## Honors and Awards
 ### Reed College
@@ -98,9 +105,10 @@ April 2021 - <a href="/2021/04/01/ugly-viz-contest.html">“April Fool’s” Da
 November 2021 - <a href="/2020/11/19/college-viz-contest.html">Data Visualization Contest Category Winner: Most Visually Appealing</a>  |  Dept. of Mathematics  
 
 ### Notre Dame High School
+2014-2018 - Fran&ccedil;oise Leadership Award (Annual)  
 May 2018 - Academic Achievement Award: Robotics  
 May 2018 - Academic Achievement Award: innov@teND  
-2014 – 2018 - Fran&ccedil;oise Leadership Award (Annual)  
+May 2017 - Outstanding Achievement in Biotechnology: Laboratory Fundamentals  
 
 ## Portfolio
 Explore my past and current projects <a href="/portfolio/">here</a>.
