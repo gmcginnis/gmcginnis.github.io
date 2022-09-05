@@ -8,7 +8,7 @@ permalink: /cv/
 Download my r&eacute;sum&eacute; here (WIP). G note to self: remove phone number from uploaded resume
 -->
 
-# Education  
+## Education  
 **B.A. Chemistry** (<i>August 2018 – May 2022</i>)  
 English Minor  
 Reed College | Portland, OR  
@@ -53,8 +53,8 @@ Statistical Learning
 
 ### Activities & Societies  
 
-[American Chemical Society](https://www.acs.org/) chapter participant (<i>Fall 2020 – May 2022</i>)  
-STEMGeMs student member (<i>Fall 2020 – May 2022</i>)  
+[American Chemical Society](https://www.acs.org/) chapter participant (<i>fall 2020 – May 2022</i>)  
+STEMGeMs student member (<i>fall 2020 – May 2022</i>)  
 
 <!--
 [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) Team 1967 safety captain (*2014 - 2018*), programming committee member (*2014 - 2016*), marketing committee member (*2016 - 2018*)  
@@ -73,7 +73,7 @@ Introduction to Probability and Statistics laboratory assistant (*Aug 2021 – D
 ## Research Experience
 **Undergraduate Senior Thesis** (<i>August 2021 – May 2022</i>)  
 Reed College | Portland, OR  
-<i>Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica</i>
+<i>Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica</i>  
 
 **Portland Air Quality Project** (<i>December 2020 – December 2021</i>)  
 [Neighbors for Clean Air](https://neighborsforcleanair.org/) + Reed College Dept. of Chemistry | Portland, OR  
@@ -102,7 +102,7 @@ Animal handling (_dogs, hens, honey bee hives_)
 June 2022 - Commendation for Excellence in the 2021–22 academic year  |  Office of the President  
 July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Office of the President  
 April 2021 - <a href="/2021/04/01/ugly-viz-contest.html">“April Fool’s” Data Visualization Contest Winner</a>  |  Dept. of Mathematics  
-November 2021 - <a href="/2020/11/19/college-viz-contest.html">Data Visualization Contest Category Winner: Most Visually Appealing</a>  |  Dept. of Mathematics  
+November 2020 - <a href="/2020/11/19/college-viz-contest.html">Data Visualization Contest Category Winner: Most Visually Appealing</a>  |  Dept. of Mathematics  
 
 ### Notre Dame High School
 2014-2018 - Fran&ccedil;oise Leadership Award (Annual)  

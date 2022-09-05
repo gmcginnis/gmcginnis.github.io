@@ -6,10 +6,13 @@ permalink: /portfolio/
 
 # Projects
 
-## Paideia Class  
+### Undergraduate Senior Thesis
+_Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica_  
+(<i>fall 2021 – spring 2022</i>)
+
+### Paideia Class  
 <a href="/2022/01/20/paideia-peppers.html">On the History and Science of Chili Peppers</a>    
 (<i>December 2021 – January 2022</i>)  
-
 
 ## Data Visualization
 
@@ -23,14 +26,16 @@ Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginni
 Learn more about the _FishDash_ Shiny dashboard <a href = "/2021-04-09-fish-dash.html">here</a>.  
 Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
 
-# Writing
-
-_Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my papers._
-
-### Undergraduate Thesis (fall 2021 – spring 2022)
-_Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica_
+# Laboratory Reports
 
 ### Chemistry
+* <b>Quantitative Data Analysis</b> (fall 2020)
+    <!--+ \[Un\]Cut Gems: Introduction to R -->
+    + Statistical Error Analysis & Hypothesis Testing
+    + Comparison of Construction and Traffic Particulate Matter Measurements in Southeast Portland
+    + Determining concentrations of toxic metals (As, Cd, Cr, Pb) in Johnson Creek Watershed soils by flame atomic absorption spectroscopy (FAAS) and inductively coupled plasma mass spectrometry (ICP-MS)
+    + Levoglucosan Analysis in Forested America at Different Periods of Forest Management Pre-Colonization and Post-Industrial Revolution
+    + <a href = "/2020-12-06-city-no2.html">Atmospheric composition by satellite remote sensing</a>
 * <b>Inorganic</b> (spring 2020)
     + Heck reaction using a palladium precatalyst under air
     + Synthesis and characterization of an iron-acac complex
@@ -42,6 +47,18 @@ _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice R
     + Synthesis of Acetylferrocene from Ferrocene and Acetic Anhydride
     + Grignard Synthesis of an Aromatic Carboxylic Acid
     + Sodium Borohydride Reduction of a Chiral Ketone
+<!--
+* Chemical Reactivity (spring 2019)
+    + Phycocyanin Protein Stability
+* Molecular Structure and Properties (fall 2018)
+    + Discovering Beer’s Law
+    + Spectrophotometric Analysis of Iron
+    + Hydrogenation of Cooking Oils
+-->
+
+# Writing
+
+_Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my papers._
 
 ### English
 * <b>The City in Film</b> (spring 2022)
@@ -71,14 +88,19 @@ _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice R
 + Case Study Evaluation: Redfern et al. 2017
 -->
 
-### History (spring 2021)
-+ Equality, Rationality, & Predictability: The Legal Changes of Medieval Europe
-+ A legal briefing from a Beccarian perspective regarding the trial of Tempel Anneke
-<!--
-* (spring 2020)
+### History
+* <b>Crime and Law in Medieval and Early Modern Europe</b> (spring 2021)
+    + The Roles of Social and Economic Status in the Violence Laws of Acqui
+    + Women and Sixteenth Century French Remission Laws
+    + Complicating Factors and the Search for the Truth in Sixteenth Century Law
+    + A legal briefing from a Beccarian perspective regarding the trial of Tempel Anneke
+    + Equality, Rationality, & Predictability: The Legal Changes of Medieval Europe
+* <b>Heretics, Witches, and Inquisitors</b> (spring 2020)
+    + Women in the Good Christian, Poor of Lyon, and Henrician Movements
+    + Inquisitorial Record-Keeping of Early Modern Europe
+    + Point-of-view essay: A Manual For the Eradication of the Fraticelli Heresy
+    + Autos-da-f&eacute; and the Power of the Holy Office of the Inquisition of New Spain
     + <i>Documentalium Inquisito</i>: Structuring a Film Defining Inquisition, Heresy, and Power in the Context of the Middle and Early Modern Ages
-    + A Manual For the Eradication of the Fraticelli Heresy
--->
 
 ### Music & Politics (fall 2020)
 + Music of The Troubles: Irish Rebel, Folk, and Protest Songs
@@ -93,5 +115,5 @@ _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice R
 * Who Can Call it Justice?: The doubts of the nature of justice in _The Eumenides_
 * The Most Beautiful Thing: Comparing the poetry of Sappho and Archilochus
 * In the Shadows of the Templo Mayor: Comparing the Reliefs of Coyolxauhqui and Tlaltecuhtli
-* "No es Optimista": Film as a critique of the modern state in Bu&ntilde;uel's _Los Olvidados_
+* "No es Optimista": Film as a critique of the modern state in Bu&ntilde;uel's _Los Olvidados_ (1950)
 * As Strong as a Man: Women and the male gaze in _Cane_
