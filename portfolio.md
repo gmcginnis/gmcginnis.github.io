@@ -24,7 +24,7 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
 
 ## Writing
 
-_Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my writings._
+_Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my papers._
 
 ### Undergraduate Thesis (fall 2021 – spring 2022)
 _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica_
