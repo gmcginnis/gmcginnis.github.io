@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Projects
+## Projects
 
 ### Undergraduate Senior Thesis
 _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica_  
@@ -26,7 +26,7 @@ Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginni
 Learn more about the _FishDash_ Shiny dashboard <a href = "/2021-04-09-fish-dash.html">here</a>.  
 Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
 
-# Laboratory Reports
+## Laboratory Reports
 
 ### Chemistry
 * <b>Quantitative Data Analysis</b> (fall 2020)
@@ -56,7 +56,7 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
     + Hydrogenation of Cooking Oils
 -->
 
-# Writing
+## Writing
 
 _Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested in my papers._
 
