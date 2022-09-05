@@ -22,6 +22,11 @@ My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and 
 View and install the _AirVizR_ package [here](https://github.com/gmcginnis/AirVizR).  
 Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/) or by local install [here](https://github.com/gmcginnis/AirVizViewR).
 
+<!--
+### Visualizing Album Lyrics
+Learn more about the Shiny dashboard here.  
+-->
+
 ### Exploring _Lophiiformes_ fish data
 Learn more about the _FishDash_ Shiny dashboard <a href = "/2021/04/09/fish-dash.html">here</a>.  
 Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
@@ -30,7 +35,7 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
 
 ### Chemistry
 * <b>Quantitative Data Analysis</b> (fall 2020)
-    <!--+ \[Un\]Cut Gems: Introduction to R -->
+    + <a href = "/2020/09/11/gems.html">\[Un\]Cut Gems</a>
     + Statistical Error Analysis & Hypothesis Testing
     + Comparison of Construction and Traffic Particulate Matter Measurements in Southeast Portland
     + Determining concentrations of toxic metals (As, Cd, Cr, Pb) in Johnson Creek Watershed soils by flame atomic absorption spectroscopy (FAAS) and inductively coupled plasma mass spectrometry (ICP-MS)
