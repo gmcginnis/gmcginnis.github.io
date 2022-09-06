@@ -53,7 +53,7 @@ Statistical Learning
 
 ### Activities & Societies  
 
-[American Chemical Society](https://www.acs.org/) chapter participant (<i>fall 2020 – May 2022</i>)  
+<a href = "https://www.acs.org/" target="_blank" rel="noopener noreferrer">American Chemical Society</a> chapter participant (<i>fall 2020 – May 2022</i>)  
 STEMGeMs student member (<i>fall 2020 – May 2022</i>)  
 
 <!--
@@ -76,12 +76,12 @@ Reed College | Portland, OR
 <i>Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica</i>  
 
 **Portland Air Quality Project** (<i>December 2020 – December 2021</i>)  
-[Neighbors for Clean Air](https://neighborsforcleanair.org/) + Reed College Dept. of Chemistry | Portland, OR  
+<a href = "https://neighborsforcleanair.org/" target="_blank" rel="noopener noreferrer">Neighbors for Clean Air</a> + Reed College Dept. of Chemistry | Portland, OR  
 Part-time ad hoc preliminary research (*Dec 2020 – Jan 2021*), full-time research & development (*Jun 2021 – Aug 2021*), part-time community engagement focused (*Aug 2021 – Dec 2021*)  
 
 **NASA/IPAC Teacher Archive Research Program** (<i>2015 – December 2016</i>)  
 Notre Dame High School | San Jose, CA & Pasadena, CA  
-[Luminosity, Accretion Disk, and Dust Team](https://nitarp.ipac.caltech.edu/team/65-LADDT-Gorjian)  
+<a href = "https://nitarp.ipac.caltech.edu/team/65-LADDT-Gorjian" target="_blank" rel="noopener noreferrer">Luminosity, Accretion Disk, and Dust Team</a>  
 
 <!--
 ## Skills
