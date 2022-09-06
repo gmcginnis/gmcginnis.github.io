@@ -7,7 +7,10 @@ tags: [data visualization, chemistry, handout]
 
 The following was created with the goal of summarizing analytics in a comprehensive, single-page document.
 
+<!-->
 [![Sep 2020 error handout](/assets/handouts/2020-09-stat-error.png)](/assets/handouts/2020-09-stat-error.pdf)
+
+-->
 
 <hr>
 
