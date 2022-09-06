@@ -36,7 +36,7 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
 ### Chemistry
 * <b>Quantitative Data Analysis</b> (fall 2020)
     + <a href = "/2020/09/11/gems.html">\[Un\]Cut Gems</a>
-    + Statistical Error Analysis & Hypothesis Testing
+    + <a href = "/2020/09/18/stat-error.html">Statistical Error Analysis & Hypothesis Testing</a>
     + Comparison of Construction and Traffic Particulate Matter Measurements in Southeast Portland
     + Determining concentrations of toxic metals (As, Cd, Cr, Pb) in Johnson Creek Watershed soils by flame atomic absorption spectroscopy (FAAS) and inductively coupled plasma mass spectrometry (ICP-MS)
     + Levoglucosan Analysis in Forested America at Different Periods of Forest Management Pre-Colonization and Post-Industrial Revolution
