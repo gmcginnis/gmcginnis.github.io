@@ -51,7 +51,8 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
     + Synthesis of Salicylic Acid from Methyl Salicylate and Sodium Hydroxide
     + Synthesis of Acetylferrocene from Ferrocene and Acetic Anhydride
     + Grignard Synthesis of an Aromatic Carboxylic Acid
-    + Sodium Borohydride Reduction of a Chiral Ketone
+    + Sodium Borohydride Reduction of a Chiral Ketone  
+
 <!--
 * Chemical Reactivity (spring 2019)
     + Phycocyanin Protein Stability
