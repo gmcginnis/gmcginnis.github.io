@@ -10,21 +10,9 @@ The following was created with the goal of summarizing analytics in a comprehens
 <!-->
 [![Sep 2020 error handout](/assets/handouts/2020-09-stat-error.png)](/assets/handouts/2020-09-stat-error.pdf)
 
+<hr>
 -->
 
-<hr>
+<object data="/assets/handouts/2020-09-stat-error.pdf" width="100%" height="800" type='application/pdf'/>
 
-PDF embed: 
-
-<!--<object data="/assets/handouts/2020-09-stat-error.pdf" width="1000" height="1000" type='application/pdf'/>-->
-
-<object data="/assets/handouts/2020-09-stat-error.pdf" type='application/pdf'/>
-
-<hr>
-
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-  <object data="/assets/handouts/2020-09-stat-error.pdf" width="1000" height="1000" type='application/pdf'/>
-</div>
+If you cannot see the PDF above, you can access it <a href="/assets/handouts/2020-09-stat-error.pdf" target="_blank" rel="noopener noreferrer">here</a>.
