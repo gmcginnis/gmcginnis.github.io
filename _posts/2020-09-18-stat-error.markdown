@@ -13,9 +13,7 @@ The following was created with the goal of summarizing analytics in a comprehens
 
 PDF embed: 
 
-<object data="/assets/handouts/2020-09-stat-error.pdf" width="1000" height="1000" type='application/pdf'/>
-
-<hr>
+<!--<object data="/assets/handouts/2020-09-stat-error.pdf" width="1000" height="1000" type='application/pdf'/>-->
 
 <object data="/assets/handouts/2020-09-stat-error.pdf" type='application/pdf'/>
 
