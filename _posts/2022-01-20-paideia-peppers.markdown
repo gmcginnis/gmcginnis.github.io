@@ -2,7 +2,7 @@
 layout: post
 title:  "Paideia Class: On the History and Science of Chili Peppers"
 date:   2022-01-20 07:54:21 -0700
-tags: [chemistry]
+tags: [chemistry, slideshow]
 ---
 
 <a href = "https://www.reed.edu/paideia/" target="_blank" rel="noopener noreferrer">Paideia</a> is Reed College's annual festival of learning, in which members of the Reed community are invited to participate in or lead classes and workshops about their passions. For the 2022 festival, I independently researched and presented a one hour lecture and corresponding slides on the history of and science behind chili peppers.
