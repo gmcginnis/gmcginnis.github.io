@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "STAD Project Introduction"
+title:  "STAD Analysis Introduction: Project Overview and Goals"
 date:   2021-06-14 07:54:21 -0700
 tags: [data visualization, shiny, chemistry, STAD project]
 ---

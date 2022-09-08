@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "STAD Visualization Overview"
+title:  "STAD Visualization Overview for Monitor Host Cohort Meeting"
 date:   2021-08-02 07:54:21 -0700
 tags: [data visualization, shiny, chemistry, STAD project]
 ---

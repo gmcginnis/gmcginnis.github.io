@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating Tools in R for Analysis and Visualization of Spatio-Temporal Air Quality Data"
+title:  "STAD Final Updates: Creating Tools in R for Analysis and Visualization of Spatio-Temporal Air Quality Data"
 date:   2021-09-03 07:54:21 -0700
 tags: [data visualization, shiny, chemistry, STAD project]
 ---
