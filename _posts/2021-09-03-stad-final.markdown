@@ -8,10 +8,10 @@ tags: [data visualization, shiny, chemistry, STAD project]
 ## Highlights
 
 ### Code
-<li> <code>PurpleAir_Portland_2021</code> <a href = "https://github.com/gmcginnis/PurpleAir_Portland_2021" target="_blank" rel="noopener noreferrer">GitHub repository</a> and handout report of preliminary research focusing on the September 2020 Oregon wildfires
-<li> <code>AirVizR</code> <a href = "https://github.com/gmcginnis/AirVizR" target="_blank" rel="noopener noreferrer">R package</a> for spatio-temporal atmospheric data wrangling and visualization tool package
-<li> <code>AirVizViewR</code> live <a href = "https://gmcginnis.shinyapps.io/AirVizViewR/" target="_blank" rel="noopener noreferrer">Shiny dashboard</a>, <a href = "https://github.com/gmcginnis/AirVizViewR" target="_blank" rel="noopener noreferrer">R code</a> for local use, and instructional handout
-<li> Poster and mini-handout for Reed College presentation session
+* <code>PurpleAir_Portland_2021</code> <a href = "https://github.com/gmcginnis/PurpleAir_Portland_2021" target="_blank" rel="noopener noreferrer">GitHub repository</a> and handout report of preliminary research focusing on the September 2020 Oregon wildfires
+* <code>AirVizR</code> <a href = "https://github.com/gmcginnis/AirVizR" target="_blank" rel="noopener noreferrer">R package</a> for spatio-temporal atmospheric data wrangling and visualization tool package
+* <code>AirVizViewR</code> live <a href = "https://gmcginnis.shinyapps.io/AirVizViewR/" target="_blank" rel="noopener noreferrer">Shiny dashboard</a>, <a href = "https://github.com/gmcginnis/AirVizViewR" target="_blank" rel="noopener noreferrer">R code</a> for local use, and instructional handout
+* Poster and mini-handout for Reed College presentation session
 
 ### Project Poster
 
@@ -69,18 +69,18 @@ On September 3, 2021, I was able to present my tools at the Reed College summer 
 
 ## Related posts
 
-<li> <a href="/2021/06/14/stad-intro.html">Introduction</a>
-<li> <a href="/2021/07/07/stad-july.html">July updates</a>
-<li> <a href="/2021/08/02/stad-cohort.html">Cohort instructions</a>
+* <a href="/2021/06/14/stad-intro.html">Introduction</a>
+* <a href="/2021/07/07/stad-july.html">July updates</a>
+* <a href="/2021/08/02/stad-cohort.html">Cohort instructions</a>
 
 <hr>
 
 ## Special thanks
-<li> Dr. Juliane Fry, Reed College
-<li> Mary Peveto, NCA
-<li> Micah Bishop, NCA
-<li> Dr. Christine Kendrick, City of Portland
-<li> Lance Giles, Lane Regional Air Protection Agency (LRAPA)
-<li> ACSI Air Toxins Subcommittee, Multnomah County
-<li> John Wasiutynski, Multnomah County
-<li> Knowledge Murphy, Multnomah County
+* Dr. Juliane Fry, Reed College
+* Mary Peveto, NCA
+* Micah Bishop, NCA
+* Dr. Christine Kendrick, City of Portland
+* Lance Giles, Lane Regional Air Protection Agency (LRAPA)
+* ACSI Air Toxins Subcommittee, Multnomah County
+* John Wasiutynski, Multnomah County
+* Knowledge Murphy, Multnomah County
