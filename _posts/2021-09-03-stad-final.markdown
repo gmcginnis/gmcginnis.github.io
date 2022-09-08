@@ -15,7 +15,9 @@ tags: [data visualization, shiny, chemistry, STAD project]
 
 ### Project Poster
 
-<a href = "https://drive.google.com/file/d/1mbFkM7Cz5nenoNzb-1y1pSNx7hLEKmbX/view?usp=sharing" target="_blank" rel="noopener noreferrer">![Poster](/assets/handouts/2021-09-session-poster.png)</a>
+![Poster](/assets/handouts/2021-09-session-poster.png)
+
+_The poster PDF can be accessed <a href = "https://drive.google.com/file/d/1mbFkM7Cz5nenoNzb-1y1pSNx7hLEKmbX/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>._
 
 <hr>
 <hr>
@@ -48,21 +50,19 @@ Furthermore, I developed a Shiny dashboard to allow non-R users to interact with
 
 <hr>
 
-## Post-Project Cohort Presentation
+## Post-Project Reflections
+
+### Cohort Presentation
 
 Once my school year resumed, I continued to work part-time with NCA to expand collaboration with community groups and individuals. I presented the digital tools to community members through a live, remotely conducted demonstration.
 
 <b>The corresponding instructional handout can be found below and is available <a href="/2021/08/02/stad-cohort.html">here</a>.</b>
 
-<hr>
-
-## Reed College Poster Presentation
+### Reed College Poster Presentation
 
 On September 3, 2021, I was able to present my tools at the Reed College summer poster session.
 
-<b>The poster can be found below and is available <a href = "https://drive.google.com/file/d/1mbFkM7Cz5nenoNzb-1y1pSNx7hLEKmbX/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.</b>
-
-<a href = "https://drive.google.com/file/d/1mbFkM7Cz5nenoNzb-1y1pSNx7hLEKmbX/view?usp=sharing" target="_blank" rel="noopener noreferrer">![Poster](/assets/handouts/2021-09-session-poster.png)</a>
+<b>The poster can be found at the top of this webpage and is available as a PDF <a href = "https://drive.google.com/file/d/1mbFkM7Cz5nenoNzb-1y1pSNx7hLEKmbX/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.</b>
 
 <hr>
 <hr>
