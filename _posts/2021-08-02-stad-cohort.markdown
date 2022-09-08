@@ -2,7 +2,7 @@
 layout: post
 title:  "STAD Visualization Overview for Monitor Host Cohort Meeting"
 date:   2021-08-02 07:54:21 -0700
-tags: [data visualization, shiny, chemistry, STAD project]
+tags: [data visualization, Shiny, chemistry, STAD project]
 ---
 
 <b><i>The following was originally a handout I created for an NCA (Neighbors for Clean Air) monitor cohort meeting.</i></b>

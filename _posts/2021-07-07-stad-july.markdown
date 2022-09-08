@@ -2,7 +2,7 @@
 layout: post
 title:  "STAD Project Updates: Portland July Visualizations"
 date:   2021-07-07 07:54:21 -0700
-tags: [data visualization, shiny, chemistry, STAD project]
+tags: [data visualization, chemistry, STAD project]
 ---
 
 <b><i>The following was originally a handout draft approximately halfway through project completion.</i></b>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Lophiiformes Shiny Dashboard"
 date:   2021-04-09 07:54:21 -0700
-tags: [data visualization, shiny]
+tags: [data visualization, Shiny]
 #thumbnail: "/assets/visualizations/2021-04-fish.png"
 ---
 
