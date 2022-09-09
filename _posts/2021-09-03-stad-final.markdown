@@ -34,7 +34,7 @@ Some of my work can be found on my <code>PurpleAir_Portland_2021</code> reposito
 
 ## Summer Work
 
-During the summer of 2021, I worked full-time with NCA and Reed College for the fellowship-supported BREATHE Oregon. In addition to occasional field work, I conducted research in order to create a series of online, publicly-accessible data visualization tools for atmospheric air quality data. This was a collaborative effort with NCA monitor hosts, my chemistry professor, and government workers in the environmental arena.
+During the summer of 2021, I worked full-time with <a href = "https://neighborsforcleanair.org/" target="_blank" rel="noopener noreferrer">Neighbors for Clean Air</a> (NCA) and Reed College for the fellowship-supported BREATHE Oregon. In addition to occasional field work, I conducted research in order to create a series of online, publicly-accessible data visualization tools for atmospheric air quality data. This was a collaborative effort with NCA monitor hosts, my chemistry professor, and government workers in the environmental arena.
 
 Much of my research was focused on the different methods of data correction factors. A handout presented to an Advisory Committee on Sustainability and Innovation (ACSI) Air Toxins Subcommittee meeting can be found <a href="/2021/06/14/stad-intro.html">here</a>.
 

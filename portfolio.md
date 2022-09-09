@@ -19,8 +19,8 @@ _Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice R
 My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and current programming projects.
 
 ### Spatio-temporal exploration of low-cost air quality monitors
-View and install the _AirVizR_ package [here](https://github.com/gmcginnis/AirVizR).  
-Use the _AirVizViewR_ dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/) or by local install [here](https://github.com/gmcginnis/AirVizViewR).
+View and install the <code>AirVizR</code> package [here](https://github.com/gmcginnis/AirVizR).  
+Use the <code>AirVizViewR</code> dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/airvizviewr/) or by local install [here](https://github.com/gmcginnis/AirVizViewR).
 
 <!--
 ### Visualizing Album Lyrics
@@ -28,7 +28,7 @@ Learn more about the Shiny dashboard here.
 -->
 
 ### Exploring _Lophiiformes_ fish data
-Learn more about the _FishDash_ Shiny dashboard <a href = "/2021/04/09/fish-dash.html">here</a>.  
+Learn more about the <code>FishDash</code> Shiny dashboard <a href = "/2021/04/09/fish-dash.html">here</a>.  
 Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io/FishDash/) or by local install [here](https://github.com/gmcginnis/FishDash).
 
 ## Laboratory Reports

@@ -6,9 +6,9 @@ tags: [data visualization, Shiny]
 #thumbnail: "/assets/visualizations/2021-04-fish.png"
 ---
 
-I made my first major Shiny application in April 2021, using data from the [FishBase](FishBase) API accessed via the [<code>rfishbase</code> package](https://github.com/ropensci/rfishbase). The goal of this project was to create an interactive dashboard that used data downloaded via an API.
+I made my first major Shiny application in April 2021, using data from the <a href = "http://fishbase.org/" target="_blank" rel="noopener noreferrer">FishBase</a> API accessed via the <a href = "https://github.com/ropensci/rfishbase" target="_blank" rel="noopener noreferrer"><code>rfishbase</code> package</a>. The goal of this project was to create an interactive dashboard that used data downloaded via an API.
 
-The live application can be accessed [here](https://gmcginnis.shinyapps.io/fishdash/), and all code and data are available [here](https://github.com/gmcginnis/FishDash).
+<b>The live application can be accessed <a href = "https://gmcginnis.shinyapps.io/fishdash/" target="_blank" rel="noopener noreferrer">here</a></b>, and all code and data are available <a href = "https://github.com/gmcginnis/FishDash" target="_blank" rel="noopener noreferrer">here</a>.
 
 Below, a preview of the final site is presented.
 

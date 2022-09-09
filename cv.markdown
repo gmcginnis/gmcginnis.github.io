@@ -53,7 +53,7 @@ Statistical Learning
 
 ### Activities & Societies  
 
-<a href = "https://www.acs.org/" target="_blank" rel="noopener noreferrer">American Chemical Society</a> chapter participant (<i>fall 2020 – May 2022</i>)  
+American Chemical Society chapter participant (<i>fall 2020 – May 2022</i>)  
 STEMGeMs student member (<i>fall 2020 – May 2022</i>)  
 
 <!--
@@ -71,17 +71,17 @@ Reed College | Portland, OR
 Introduction to Probability and Statistics laboratory assistant (*Aug 2021 – Dec 2021*), Data Science course assistant (*Jan 2022 – Apr 2022*)  
 
 ## Research Experience
-**Undergraduate Senior Thesis** (<i>August 2021 – May 2022</i>)  
+**<a href="/2022/04/28/ice-ice-baby.html">Undergraduate Senior Thesis</a>** (<i>August 2021 – May 2022</i>)  
 Reed College | Portland, OR  
 <i>Exploratory Analysis of a Holocene Sea Salt Ice Core Record from Skytrain Ice Rise, Antarctica</i>  
 
-**Portland Air Quality Project** (<i>December 2020 – December 2021</i>)  
-<a href = "https://neighborsforcleanair.org/" target="_blank" rel="noopener noreferrer">Neighbors for Clean Air</a> + Reed College Dept. of Chemistry | Portland, OR  
+**<a href="/2021/09/03/stad-final.html">Portland Air Quality Project</a>** (<i>December 2020 – December 2021</i>)  
+Neighbors for Clean Air + Reed College Dept. of Chemistry | Portland, OR  
 Part-time ad hoc preliminary research (*Dec 2020 – Jan 2021*), full-time research & development (*Jun 2021 – Aug 2021*), part-time community engagement focused (*Aug 2021 – Dec 2021*)  
 
-**NASA/IPAC Teacher Archive Research Program** (<i>2015 – December 2016</i>)  
+**<a href = "https://nitarp.ipac.caltech.edu/team/65-LADDT-Gorjian" target="_blank" rel="noopener noreferrer">NASA/IPAC Teacher Archive Research Program</a>** (<i>2015 – December 2016</i>)  
 Notre Dame High School | San Jose, CA & Pasadena, CA  
-<a href = "https://nitarp.ipac.caltech.edu/team/65-LADDT-Gorjian" target="_blank" rel="noopener noreferrer">Luminosity, Accretion Disk, and Dust Team</a>  
+Luminosity, Accretion Disk, and Dust Team
 
 <!--
 ## Skills
@@ -105,7 +105,7 @@ April 2021 - <a href="/2021/04/01/ugly-viz-contest.html">“April Fool’s” Da
 November 2020 - <a href="/2020/11/19/college-viz-contest.html">Data Visualization Contest Category Winner: Most Visually Appealing</a>  |  Dept. of Mathematics  
 
 ### Notre Dame High School
-2014-2018 - Fran&ccedil;oise Leadership Award (Annual)  
+2014-2018 - Fran&ccedil;oise Leadership Award (annual)  
 May 2018 - Academic Achievement Award: Robotics  
 May 2018 - Academic Achievement Award: innov@teND  
 May 2017 - Outstanding Achievement in Biotechnology: Laboratory Fundamentals  
