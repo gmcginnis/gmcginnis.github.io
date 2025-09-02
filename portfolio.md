@@ -5,6 +5,7 @@ permalink: /portfolio/
 ---
 
 <!-- ## Projects & Essays -->
+<i>Please note: **This page is a work in progress** as I add more webpages with more detailed project information.</i>
 
 My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and current programming projects.
 
@@ -31,7 +32,7 @@ Multimedia scientific concept communications on the topic of pitch drop experime
 Scientific myth debunking via choice-based interactive fiction text adventure game  
 <i>INFO 578 - Science Information and its Presentation</i>
 
-Meteorite map interactive Shiny dashboard  
+<a href = "/2024/05/06/meteorites.html">Meteorite map interactive Shiny dashboard</a>  
 <i>INFO 526 - Data Analysis and Visualization</i>
 
 Model design, database table creation, and querying of manufactured business data  
