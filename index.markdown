@@ -15,7 +15,10 @@ layout: home
 
 ## <b>Hello there!</b>
 
-I'm Gillian (she/her pronouns), a recent graduate from Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry laboratory experience, I work primarily with R and RStudio in my studies and as a course assistant, with additional experience in LaTeX via Overleaf. I have extensive higher education IT help desk support experience in both hands-on and remote settings.
+I'm Gillian, a Reed College alumna and master's student at the University of Arizona's College of Information Science. For my undergraduate degree I studied chemistry with a minor in English. I am currently pursuing my M.S. in information science with an emphasis in machine learning.
+
+I'm passionate about scientific literacy and truthful \& accessible data visualization. I work primarily with R and Python in my studies, with additional experience in LaTeX. During my undergraduate degree I studied in both wet and dry laboratories. I previously worked as a course assistant and IT help desk support in both hands-on and remote settings.
+<!-- I'm Gillian (she/her pronouns), a recent graduate from Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry laboratory experience, I work primarily with R and RStudio in my studies and as a course assistant, with additional experience in LaTeX via Overleaf. I have extensive higher education IT help desk support experience in both hands-on and remote settings. -->
 
 I started this website in November 2021 to showcase my past and current projects, as well as practice my GitHub, Jekyll, and HTML skills.
 
@@ -29,4 +32,4 @@ I started this website in November 2021 to showcase my past and current projects
 
 &#x261e; View my programming projects on GitHub [here](https://github.com/gmcginnis).
 
-_I do not to use social media; you can contact me via any of the methods above._
+_I do not frequent social media; you can contact me via any of the methods above._
