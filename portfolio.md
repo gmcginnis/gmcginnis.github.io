@@ -104,7 +104,7 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
 
 <!-- ### Chemistry -->
 <!-- * <b>Quantitative Data Analysis</b> (fall 2020) -->
-<i>CHEM 313 - Quantitative Data Analysis for Chemists</i>
+<i>CHEM 313 - Quantitative Data Analysis for Chemists</i>  
 + <a href = "/2020/09/11/gems.html">\[Un\]Cut Gems</a>
 + <a href = "/2020/09/18/stat-error.html">Statistical Error Analysis & Hypothesis Testing</a>
 + Comparison of Construction and Traffic Particulate Matter Measurements in Southeast Portland
@@ -112,11 +112,13 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
 + Levoglucosan Analysis in Forested America at Different Periods of Forest Management Pre-Colonization and Post-Industrial Revolution
 + <a href = "/2020/12/06/city-no2.html">Atmospheric composition by satellite remote sensing</a> (<i>referenced above</i>)
 <!-- * <b>Inorganic</b> (spring 2020) -->
+
 <i>CHEM 212 - Inorganic Chemistry</i>
 + Heck reaction using a palladium precatalyst under air
 + Synthesis and characterization of an iron-acac complex
 + <a href = "/2020/03/06/ichem-presentation.html">Literature presentation: Rice et al. 2020</a>
 <!-- * <b>Organic</b> (fall 2019 – spring 2020) -->
+
 <i>CHEM 201 & 202 - Organic Chemistry I & II</i>
 + Distillation of Whiskey Flavorings
 + Synthesis of Isopentyl Acetate from Isopentyl Alcohol and Acetic Acid
