@@ -144,6 +144,7 @@ November 2020 - <a href="/2020/11/19/college-viz-contest.html">Data Visualizatio
 May 2018 - Academic Achievement Award: Robotics  
 May 2018 - Academic Achievement Award: innov@teND  
 May 2017 - Outstanding Achievement in Biotechnology: Laboratory Fundamentals  
+
 <!-- 
 ## Portfolio
 Explore my past and current projects <a href="/portfolio/">here</a>. -->
