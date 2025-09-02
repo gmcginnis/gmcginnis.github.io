@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-<!-- ## Projects \& Essays -->
+<!-- ## Projects & Essays -->
 
 My GitHub ([@gmcginnis](https://github.com/gmcginnis)) has a number of past and current programming projects.
 
@@ -117,7 +117,7 @@ Use the dashboard via my shinyapps.io host [here](https://gmcginnis.shinyapps.io
 + Synthesis and characterization of an iron-acac complex
 + <a href = "/2020/03/06/ichem-presentation.html">Literature presentation: Rice et al. 2020</a>
 <!-- * <b>Organic</b> (fall 2019 – spring 2020) -->
-<i>CHEM 201 \& 202 - Organic Chemistry I \& II</i>
+<i>CHEM 201 & 202 - Organic Chemistry I & II</i>
 + Distillation of Whiskey Flavorings
 + Synthesis of Isopentyl Acetate from Isopentyl Alcohol and Acetic Acid
 + Rate of Nucleophilic Substitution
@@ -191,7 +191,7 @@ Please [contact me](mailto:gillian.a.mcginnis@gmail.com) if you are interested i
 
 <!--
 ### Archeology (spring 2022)
-ANME 385 - Death \& Burial
+ANME 385 - Death & Burial
 + Case Study Evaluation: Meskell 1998
 + Case Study Evaluation: Ikram and Dodson 1998
 + Case Study Evaluation: Iezzi 2009
@@ -204,7 +204,7 @@ ANME 385 - Death \& Burial
 + “You’re on a hate binge”: Restoration of the Patriarchal Order Through Male Violence and Female Casualty in _The Big Heat_
 
 <!-- ### Music & Politics (fall 2020) -->
-<i>MUS 277 - Music \& Politics</i>
+<i>MUS 277 - Music & Politics</i>
 + Music of The Troubles: Irish Rebel, Folk, and Protest Songs
 + The Tehrangeles Genre: In and Beyond the Nation
 + <i>Noise Uprising</i> and the Politics of Recorded Sound

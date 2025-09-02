@@ -15,7 +15,7 @@ The University of Arizona, College of Information Science | Tucson, AZ
 
 **B.A. Chemistry**, English minor (<i>August 2018 – May 2022</i>)  
 Reed College | Portland, OR  
-<!-- Activities \& societies: American Chemical Society chapter participant (<i>fall 2020 – May 2022</i>); STEMGeMs student member (<i>fall 2020 – May 2022</i>) -->
+<!-- Activities & societies: American Chemical Society chapter participant (<i>fall 2020 – May 2022</i>); STEMGeMs student member (<i>fall 2020 – May 2022</i>) -->
 <!-- English Minor   -->
 
 <!--
@@ -33,7 +33,7 @@ SQL/NoSQL Databases for Data and Information Sciences
 Data Analysis and Visualization  
 Science Information and its Presentation  
 Artificial Intelligence  
-Bayesian Modeling \& Inference  
+Bayesian Modeling & Inference  
 Foundations of Information
 Introduction to Human Computer Interaction    
 Statistical Natural Language Processing  
@@ -132,7 +132,7 @@ Middle English language (_reading, basic pronunciation_)
 Animal handling (_dogs, hens, honey bee hives_) -->
 
 
-## Honors \& Awards  
+## Honors & Awards  
 ### Reed College
 June 2022 - Commendation for Excellence in the 2021–22 academic year  |  Office of the President  
 July 2021 - Commendation for Excellence in the 2020–21 academic year  |  Office of the President  
@@ -149,7 +149,7 @@ May 2017 - Outstanding Achievement in Biotechnology: Laboratory Fundamentals
 ## Portfolio
 Explore my past and current projects <a href="/portfolio/">here</a>. -->
 
-## Activities \& Societies  
+## Activities & Societies  
 
 **Certified Tourism Ambassador (CTA)** (<i>August 2025 – valid through December 2026</i>)  
 Awarded by the Tourism Ambassador Institute
