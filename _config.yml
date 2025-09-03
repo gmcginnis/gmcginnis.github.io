@@ -27,15 +27,37 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: gmcginnis.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gmcginnis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  gmcginnis
-linkedin_username:  gillian-mcginnis
+# github_username:  gmcginnis
+# linkedin_username:  gillian-mcginnis
+## UPDATES
+# social_links:
+#   github: gmcginnis
+#   linkedin: gillian-mcginnis
+# footer_links:
+#   github_username:  gmcginnis
+#   linkedin_username:  gillian-mcginnis
+##
 
-# Build settings
-theme: minima
-minima:
-  skin: dark
+# # Build settings
+# theme: minima
+# minima:
+#   skin: dark
+# plugins:
+#   - jekyll-feed
+# Build settings again
+remote_theme: jekyll/minima
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+minima:
+  skin: auto
+# UPDATES
+  social_links:
+    github: gmcginnis
+    linkedin: gillian-mcginnis
+  # footer_links:
+  #   github_username:  gmcginnis
+  #   linkedin_username:  gillian-mcginnis
+#
 
 # Exclude from processing.
 # The following items will not be processed, by default.
