@@ -2,7 +2,7 @@
 layout: post
 title:  "Predicting mango quality values from NIR spectra via PLSR"
 date:   2024-05-01 14:00:01 -0700
-tags: [chemistry, data visualization]
+tags: [chemistry, data visualization, poster]
 ---
 
 As a final project for INFO 521 - Introduction to Machine Learning, I chose a topic that related to my background and chemistry.
