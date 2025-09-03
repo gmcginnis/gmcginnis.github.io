@@ -67,9 +67,6 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: Email
-      icon: envelope
-      url: "mailto:gillian.a.mcginnis@gmail.com"
     - title: GitHub
       icon: github
       url: "https://github.com/gmcginnis"
