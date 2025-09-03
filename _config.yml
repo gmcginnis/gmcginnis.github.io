@@ -52,7 +52,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
-  skin: auto
+  skin: solarized-light
 # UPDATES
   # social_links:
   #   github: gmcginnis
