@@ -34,7 +34,7 @@ Data Analysis and Visualization
 Science Information and its Presentation  
 Artificial Intelligence  
 Bayesian Modeling & Inference  
-Foundations of Information
+Foundations of Information  
 Introduction to Human Computer Interaction    
 Statistical Natural Language Processing  
 
