@@ -29,7 +29,7 @@ Solving puzzles using A* search with novel heuristics
 Multimedia scientific concept communications on the topic of pitch drop experiments  
 <i>INFO 578 - Science Information and its Presentation</i>
 
-<a href = "/2024/12/15/scicommbat.html">Scientific myth debunking via choice-based interactive fiction text adventure game</a>  
+<a href = "/2024/12/16/scicommbat.html">Scientific myth debunking via choice-based interactive fiction text adventure game</a>  
 <i>INFO 578 - Science Information and its Presentation</i>
 
 <a href = "/2024/05/06/meteorites.html">Meteorite map interactive Shiny dashboard</a>  
