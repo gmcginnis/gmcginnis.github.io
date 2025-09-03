@@ -38,7 +38,7 @@ Scientific myth debunking via choice-based interactive fiction text adventure ga
 Model design, database table creation, and querying of manufactured business data  
 <i>INFO 579 - SQL/NoSQL Databases for Data and Information Sciences</i>
 
-Predicting mango quality values from NIR spectra via partial least squares regression  
+<a href = "/2024/05/01/mangoes.html">Predicting mango quality values from NIR spectra via partial least squares regression</a>  
 <i>INFO 521 - Introduction to Machine Learning</i> | <b>Presented at UArizona Spring 2024 iShowcase</b>
 
 

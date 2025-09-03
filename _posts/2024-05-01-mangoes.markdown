@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Predicting mango quality values from NIR spectra via PLSR"
+date:   2024-05-01 14:00:01 -0700
+tags: [chemistry, data visualization]
+---
+
+As a final project for INFO 521 - Introduction to Machine Learning, I chose a topic that related to my background and chemistry.
+
+The goal of this project was to predict quality attributes of mango fruit (<i>Mangifera indica</i>) given their near-infrared (NIR) spectral data. Models can be constructed that predict values of vitamin C content and total acidity—both of which impact the flavor and quality of mangoes.
+
+This project used the dataset provided in "Near infrared spectroscopic data for rapid and simultaneous prediction of quality attributes in intact mango fruits" by Agus Arip Munawar, Kusumiyati, and Devi Wahyuni ([_Data in Brief_ 2019, 27, 2352-3409](https://doi.org/10.1016/j.dib.2019.104789)).
+
+Prior to analysis, the dataset was split into test and training sets, and the final models were applied to said test set in order to determine accuracy and precision.
+Partial least squares regression (PLSR) models were used, as they are a common approach for other food NIR analyses.
+Models were evaluated with the coefficient of determination (R<sup>2</sup>), root-mean-square error (RMSE), and residual prediction deviation (RPD, also known as ratio prediction to deviation).
+
+A formal written report was written,* and the project was presented with a corresponding poster—shown below—at the University of Arizona Spring 2024 iShowcase.
+
+![Poster](/assets/handouts/2024-05-mango-poster.png)
+
+_The poster PDF can be accessed <a href = "https://drive.google.com/file/d/1Vi8V_5gb_c5tLPAWyri6L2PITKSa7z9S/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>._
+
+*If you are interested in reading the report, please contact me.
