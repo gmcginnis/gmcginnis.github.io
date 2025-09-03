@@ -19,7 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Gillian McGinnis
-email: gillian.a.mcginnis@gmail.com
+#
+author:
+#
+  email: gillian.a.mcginnis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website. Please feel free to contact me
   if you have questions or comments. 
@@ -51,12 +54,28 @@ plugins:
 minima:
   skin: auto
 # UPDATES
-  social_links:
-    github: gmcginnis
-    linkedin: gillian-mcginnis
+  # social_links:
+  #   github: gmcginnis
+  #   linkedin: gillian-mcginnis
   # footer_links:
   #   github_username:  gmcginnis
   #   linkedin_username:  gillian-mcginnis
+  # Social Media Links.
+  #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
+  #   entries. Valid entry keys:
+  #     * title    Tooltip rendered on hovering over icon.
+  #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  #     * url      Full URL of social profile.
+  social_links:
+    - title: Email
+      icon: envelope
+      url: "mailto:gillian.a.mcginnis@gmail.com"
+    - title: GitHub
+      icon: github
+      url: "https://github.com/gmcginnis"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/gillian-mcginnis/"
 #
 
 # Exclude from processing.
