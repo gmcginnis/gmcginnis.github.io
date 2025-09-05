@@ -33,3 +33,9 @@ I started this website in November 2021 to showcase my past and current projects
 &#x261e; View my programming projects on GitHub [here](https://github.com/gmcginnis).
 
 _I do not frequent social media; you can contact me via any of the methods above._
+
+<hr>
+
+# Posts
+
+<a href="/tags/">Browse by tag</a>, or view chronologically:
