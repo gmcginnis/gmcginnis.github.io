@@ -35,6 +35,9 @@ Multimedia scientific concept communications on the topic of pitch drop experime
 <a href = "/2024/05/06/meteorites.html">Meteorite map interactive Shiny dashboard</a>  
 <i>INFO 526 - Data Analysis and Visualization</i>
 
+<a href = "/2024/01/27/minard.html">Recreation of Minard's chart of Napoleon's 1812 Russian campaign</a>  
+<i>INFO 526 - Data Analysis and Visualization</i>
+
 Model design, database table creation, and querying of manufactured business data  
 <i>INFO 579 - SQL/NoSQL Databases for Data and Information Sciences</i>
 
